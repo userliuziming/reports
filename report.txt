@@ -7,3 +7,4 @@ atstudy write line04...
 aaa
 aaa
 aaa
+bbb
