@@ -5,5 +5,5 @@ atstudy write line04...
 111
 11
 aaa
-
+aaa
 aaa
